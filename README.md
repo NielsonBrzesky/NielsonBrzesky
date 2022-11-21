@@ -28,6 +28,12 @@
     <a href = "https://www.linkedin.com/in/nielson-brzesky-38905940/">
       <img width="25" src="linkedin.svg">
     </a>
+    <a href = "https://www.youtube.com/">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/">
+      <img width="25" src="instagram.png">
+    </a>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
