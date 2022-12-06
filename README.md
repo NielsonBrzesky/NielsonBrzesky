@@ -1,4 +1,4 @@
-## Olá, Nielson F Brzesky Aqui!
+## Hi, Nielson F Brzesky Here!
 
 <div>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=NielsonBrzesky&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
