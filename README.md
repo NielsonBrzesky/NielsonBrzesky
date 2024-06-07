@@ -1,4 +1,4 @@
-## Hi, Nielson F Brzesky Here!\s
+## Hi, Nielson F Brzesky Here!
 Sorry, my repository is still under maintenance, I'm removing some older projects, and uploading new ones with new technologies, thank you in advance for your visit!
 
 <div>
