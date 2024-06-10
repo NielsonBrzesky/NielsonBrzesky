@@ -1,5 +1,5 @@
 ## Hi, Nielson F Brzesky Here!
-Hello everyone, I removed the older projects, and uploaded new projects with more current technologies, if you need anything just send a message, all the best to you!
+Hello everyone, I removed the older projects, I am developing new projects with more current technologies, and uploading them, if you need anything just send a message, grateful for your attention and success for you!
 
 <div>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=NielsonBrzesky&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
