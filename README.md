@@ -1,5 +1,5 @@
 ## Hi, Nielson F Brzesky Here!
-Sorry, my repository is still under maintenance, I'm removing some older projects, and uploading new ones with new technologies, thank you in advance for your visit!
+Hello everyone, I removed the older projects, and uploaded new projects with more current technologies, if you need anything just send a message, all the best to you!
 
 <div>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=NielsonBrzesky&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
